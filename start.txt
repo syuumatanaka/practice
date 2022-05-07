@@ -1,1 +1,3 @@
 はじまり
+x
+git remote set -url origin repositoriurl
